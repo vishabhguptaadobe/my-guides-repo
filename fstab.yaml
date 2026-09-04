@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: https://dita-franklin-worker.adobeaem.workers.dev/vishabhguptaadobe/my-guides-repo/main/docs
+    url: https://guides.adobe.com/eds-workers/vishabhguptaadobe/my-guides-repo/main/docs
     type: markup
 
